@@ -16,7 +16,7 @@ The purpose is to analyze bike trip data of the bike-sharing program launched in
 ### NYC Bike Trip Story
 
 The link to the NYC bike trip story created by using Tableau.<br>
-[NYC Bike Trip Story]("https://public.tableau.com/views/nyc_citibike_challenge_16625773674590/NYCCitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link")<br>
+[NYC Bike Trip Story](https://public.tableau.com/views/nyc_citibike_challenge_16625773674590/NYCCitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)<br>
 
 ### Customer and location breakdown
 
@@ -26,9 +26,9 @@ The link to the NYC bike trip story created by using Tableau.<br>
 4. Most bikes are used close to business locations. 
 
 <figure>
-    <figcaption>Customer breakdown</figcaption>
-    <img src="/customer_breakdown.png" width=901 height=auto
-         alt="Customer breakdown">
+    <figcaption>Customer and location breakdown</figcaption>
+    <img src="/customer_location_breakdown.png" width=1011 height=auto
+         alt="Customer and location breakdown">
 </figure> <br>
 
 
